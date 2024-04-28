@@ -9,6 +9,9 @@ Chapitre 7: Fonction Logarithme Népérien
 Chapitre 8: Géométrie dans l'espace: produit scalaire et équations de plan
 Chapitre 9: Primitives et équations différentielles. 
 Chapitre 10: Calcul intégral
-Chapitre 11: Fonctions sinus et cosinus
-Chapitre 12: Combinatoire. 
-Chapitre 13: Sommes de variables aléatoires. 
+Chapitre 11: Combinatoire.
+Chapitre 12: Sommes de variables aléatoires. 
+Chapitre 13: Fonctions sinus et cosinus
+Chapitre 14: Loi des grands nombres
+ 
+
