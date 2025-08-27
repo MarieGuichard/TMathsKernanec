@@ -1,4 +1,4 @@
-## Progression année 2023/2024
+## Progression année 2025/2026
 Chapitre 1: suites: limites et récurrence
 
 Chapitre 2: Dérivation
