@@ -1,5 +1,5 @@
 ## Progression année 2025/2026
-Chapitre 1: suites: limites et récurrence
+Chapitre 1: suites: rappels et récurrence
 
 Chapitre 2: Dérivation
 
